@@ -36,4 +36,4 @@ This Java project demonstrates the use of JUnit 5 and AssertJ for unit testing. 
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eze-ms/Testing-IntegerAssertions
+   git clone https://github.com/eze-ms/Testing-N2-E1
